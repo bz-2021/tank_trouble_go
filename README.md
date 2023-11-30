@@ -1,4 +1,4 @@
-# 简单版坦克大战
+# 简单版坦克动荡
 
 ![游戏界面](doc/img1.png)
 
@@ -19,6 +19,6 @@ go run .
 
 ## 操作
 
-### Palyer1: WASD + J
+### Player1: WASD + J
 
 ### Player2: ↑←↓→ + Space
